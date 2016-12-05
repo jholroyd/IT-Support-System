@@ -1,0 +1,7 @@
+TODO
+====
+
+Font gets bigger when submitting a form.
+When importing via CSV, perform a check to see if any data exists.
+If a user is deleted and they have tickets, delete the tickets as well as the replies for them. Warning message?
+If a ticket has been closed, check the edit id when editing to see if it's closed or not.
