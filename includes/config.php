@@ -3,9 +3,9 @@
 session_start();
 
 $config = array(
-    'host'		=> 'localhost',			// define the database host.
-    'username'	=> 'root',				// define the database user.
-    'password'	=> '',			      // define the database password.
+    'host'      => 'localhost',			// define the database host.
+    'username'  => 'root',				// define the database user.
+    'password'	=> '',			        // define the database password.
     'dbname'	=> 'support'		    // define the database name.
 );
 
